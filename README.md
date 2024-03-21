@@ -11,3 +11,14 @@
 ![Screenshot 2024-03-22 014811](https://github.com/xillenburg/PyroV2/assets/92593235/dffff944-ff79-4648-b8ff-6a97d758cc2b)
 <h4>Hunger Points: 5, Saturation Points: 4, Eating Time(sec): 0.8<h4>
 
+<h3>Wheat Sushi<h3>
+  
+![Screenshot 2024-03-22 023951](https://github.com/xillenburg/PyroV2/assets/92593235/dc2bc098-3f6d-49a6-8b1e-a7913d0fa634)
+<h4>Hunger Points: 4, Saturation Points: 4, Eating Time(sec): 0.5<h4>
+<h4>Yield: 4<h4>
+
+<h3>Salmon Sushi<h3>
+  
+![Screenshot 2024-03-22 024019](https://github.com/xillenburg/PyroV2/assets/92593235/f704f24e-2817-4275-a1f4-3d18ccccfc6b)
+<h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 0.8<h4>
+<h4>Yield: 3<h4>
