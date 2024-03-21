@@ -1,6 +1,6 @@
 <h1>This page is dedicated for food and miscs<h1>
 
-<h2>Basic Foods<h2>
+<h1>Basic Foods<h1>
 <h3>Boiled Egg<h3>
   
 ![Screenshot 2024-03-22 014823](https://github.com/xillenburg/PyroV2/assets/92593235/a4886d46-52e7-475a-9525-c6d38679787a)
