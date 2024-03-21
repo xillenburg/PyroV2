@@ -36,7 +36,7 @@
 
 <h2>Carrot Pie<h2>
   
-![Screenshot 2024-03-22 012102](https://github.com/xillenburg/PyroV2/assets/92593235/1a2f067e-9f6b-471d-8974-1f41a7f49df5)
+![Screenshot 2024-03-22 031433](https://github.com/xillenburg/PyroV2/assets/92593235/1cd544e4-7907-4c01-9817-68a83fa1973b)
 <h4>Effects: Night Vision [60 secs], Regeneration [5 secs]<h4>
 <h4>Hunger Points: 14, Saturation Points: 6, Eating Time(sec): 3<h4>
 <h4>Yield: 1, Max stack: 16<h4>
