@@ -8,6 +8,6 @@
   
 <h3>Fried Egg<h3>
   
-[Screenshot 2024-03-22 014811](https://github.com/xillenburg/PyroV2/assets/92593235/b1891669-f04b-48b6-8d68-3175a3fb41d5)
+![Screenshot 2024-03-22 014811](https://github.com/xillenburg/PyroV2/assets/92593235/dffff944-ff79-4648-b8ff-6a97d758cc2b)
 <h4>Hunger Points: 5, Saturation Points: 4<h4>
 
