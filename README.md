@@ -70,6 +70,8 @@
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
 <h4>Yield: 6, Max stack: 64<h4>
 
+<h1>Hearty Heavy Foods~~~~~~~~~~~~~~~~~~~~~<h1>
+
 <h2>Creamy Rice & Chicken Stew<h2>
 
 ![Screenshot 2024-03-22 161551](https://github.com/xillenburg/PyroV2/assets/92593235/7b8c4474-dbc4-415b-b67a-fa0d54be2567)
