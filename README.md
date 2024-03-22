@@ -52,7 +52,7 @@
 <h2>Fruit Salad<h2>
   
 ![Screenshot 2024-03-22 024515](https://github.com/xillenburg/PyroV2/assets/92593235/a5c54702-2418-496f-9449-a41a7fc8706c)
-<h4>Effects: Regeneration II [5 secs], Speed [15 secs], Absorption [30 secs]<h4>
+<h4>Effects: Regeneration II [5 secs], Speed [30 secs], Absorption [30 secs]<h4>
 <h4>Hunger Points: 7, Saturation Points: 7, Eating Time(sec): 2<h4>
 <h4>Yield: 2, Max stack: 16<h4>
 
