@@ -1,6 +1,6 @@
 <h1>This page is dedicated for food and miscs<h1>
 
-<h1>Basic Foods<h1>
+<h1>Basic Foods~~~~~~~~~~~~~~~~~~~~~<h1>
 <h2>Boiled Egg<h2>
   
 ![Screenshot 2024-03-22 014823](https://github.com/xillenburg/PyroV2/assets/92593235/a4886d46-52e7-475a-9525-c6d38679787a)
@@ -16,7 +16,7 @@
 <h2>Thin Fries<h2>
   
 ![Screenshot 2024-03-22 134148](https://github.com/xillenburg/PyroV2/assets/92593235/176a4a71-2cd3-4951-9839-0e0910a08faa)
-<h3>CONSUMABLE EVEN WHEN FULL<h3>
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Hunger Points: 2, Saturation Points: 2, Eating Time(sec): 0.7<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
@@ -32,12 +32,12 @@
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 0.8<h4>
 <h4>Yield: 3, Max stack: 64<h4>
 
-<h1>Status Effect Foods<h1>
+<h1>Status Effect Foods~~~~~~~~~~~~~~~~~~~~~<h1>
 
 <h2>Berry Candy<h2>
   
 ![Screenshot 2024-03-22 030747](https://github.com/xillenburg/PyroV2/assets/92593235/f85e67cd-3d1d-4b08-a9f5-b83af91e0415)
-<h3>CONSUMABLE EVEN WHEN FULL<h3>
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects: Speed [4 secs]<h4>
 <h4>Hunger Points: 0.5, Saturation Points: 0, Eating Time(sec): 0.5<h4>
 <h4>Yield: 4, Max stack: 64<h4>
