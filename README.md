@@ -32,16 +32,42 @@
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 0.8<h4>
 <h4>Yield: 3, Max stack: 64<h4>
 
-<h1>Status Effect Foods~~~~~~~~~~~~~~~~~~~~~<h1>
+<h1>Sweets ~~~~~~~~~~~~~~~~~~~~~<h1>
 
 <h2>Berry Candy<h2>
   
 ![Screenshot 2024-03-22 030747](https://github.com/xillenburg/PyroV2/assets/92593235/f85e67cd-3d1d-4b08-a9f5-b83af91e0415)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects: Speed [4 secs]<h4>
-<h4>Hunger Points: 0.5, Saturation Points: 0, Eating Time(sec): 0.5<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time(sec): 0.5<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
+<h2>Candy Comb<h2>
+  
+![Screenshot 2024-03-23 021356](https://github.com/xillenburg/PyroV2/assets/92593235/89a86182-ad04-4593-ab17-9f6e18898a87)
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
+<h4>Effects: Speed [6 secs]<h4>
+<h4>Hunger Points: 2, Saturation Points: 0, Eating Time(sec): 0.7<h4>
+<h4>Yield: 2, Max stack: 64<h4>
+
+<h2>Lollipop Berry<h2>
+  
+![Screenshot 2024-03-23 021544](https://github.com/xillenburg/PyroV2/assets/92593235/30b522b8-4559-43b2-b56f-7ef8aaffd402)
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
+<h4>Effects: Speed [10 secs]<h4>
+<h4>Hunger Points: 3, Saturation Points: 0, Eating Time(sec): 0.8<h4>
+<h4>Yield: 3, Max stack: 64<h4>
+
+<h2>Choco Balls<h2>
+  
+![Screenshot 2024-03-23 023625](https://github.com/xillenburg/PyroV2/assets/92593235/84a8e430-f3c7-420e-81f8-10cd985951d9)
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
+<h4>Effects: Speed [10 secs], Regeneration [2 secs]<h4>
+<h4>Hunger Points: 2, Saturation Points: 0, Eating Time(sec): 0.8<h4>
+<h4>Yield: 8, Max stack: 64<h4>
+  
+<h1>Status Effect Foods~~~~~~~~~~~~~~~~~~~~~<h1>
+  
 <h2>Carrot Pie<h2>
   
 ![Screenshot 2024-03-22 031433](https://github.com/xillenburg/PyroV2/assets/92593235/1cd544e4-7907-4c01-9817-68a83fa1973b)
