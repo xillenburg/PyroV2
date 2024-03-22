@@ -13,6 +13,13 @@
 <h4>Hunger Points: 5, Saturation Points: 4, Eating Time(sec): 0.8<h4>
 <h4>Yield: 1, Max stack: 64<h4>
 
+<h2>Thin Fries<h2>
+  
+![Screenshot 2024-03-22 134148](https://github.com/xillenburg/PyroV2/assets/92593235/176a4a71-2cd3-4951-9839-0e0910a08faa)
+<h3>CONSUMABLE EVEN WHEN FULL<h3>
+<h4>Hunger Points: 2, Saturation Points: 2, Eating Time(sec): 0.7<h4>
+<h4>Yield: 4, Max stack: 64<h4>
+
 <h2>Wheat Sushi<h2>
   
 ![Screenshot 2024-03-22 023951](https://github.com/xillenburg/PyroV2/assets/92593235/dc2bc098-3f6d-49a6-8b1e-a7913d0fa634)
@@ -48,3 +55,17 @@
 <h4>Effects: Regeneration II [5 secs], Speed [15 secs], Absorption [30 secs]<h4>
 <h4>Hunger Points: 8, Saturation Points: 4, Eating Time(sec): 2<h4>
 <h4>Yield: 2, Max stack: 16<h4>
+
+<h2>Glazed Chicken<h2>
+
+![Screenshot 2024-03-22 134314](https://github.com/xillenburg/PyroV2/assets/92593235/f7b1d41b-294a-4346-b3c7-3e82bb5cc237)
+<h4>Effects: Strength [20 secs], Speed [20 secs]<h4>
+<h4>Hunger Points: 6, Saturation Points: 6, Eating Time(sec): 1<h4>
+<h4>Yield: 8, Max stack: 64<h4>
+
+<h2>Chicken Egg Sandwich<h2>
+
+![Screenshot 2024-03-22 134314](https://github.com/xillenburg/PyroV2/assets/92593235/f7b1d41b-294a-4346-b3c7-3e82bb5cc237)
+<h4>Effects: Strength [15 secs], Regeneration [5 secs]<h4>
+<h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
+<h4>Yield: 6, Max stack: 64<h4>
