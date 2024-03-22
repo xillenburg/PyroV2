@@ -33,7 +33,7 @@
 <h3>CONSUMABLE EVEN WHEN FULL<h3>
 <h4>Effects: Speed [4 secs]<h4>
 <h4>Hunger Points: 0.5, Saturation Points: 0, Eating Time(sec): 0.5<h4>
-<h4>Yield: 4, Max stack: 16<h4>
+<h4>Yield: 4, Max stack: 64<h4>
 
 <h2>Carrot Pie<h2>
   
