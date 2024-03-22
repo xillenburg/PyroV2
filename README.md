@@ -65,7 +65,7 @@
 
 <h2>Chicken Egg Sandwich<h2>
 
-![Screenshot 2024-03-22 134314](https://github.com/xillenburg/PyroV2/assets/92593235/f7b1d41b-294a-4346-b3c7-3e82bb5cc237)
+![Screenshot 2024-03-22 134339](https://github.com/xillenburg/PyroV2/assets/92593235/fd676eab-108a-43b6-99c9-f20b0d7f4a0d)
 <h4>Effects: Strength [15 secs], Regeneration [5 secs]<h4>
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
 <h4>Yield: 6, Max stack: 64<h4>
