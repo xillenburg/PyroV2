@@ -30,6 +30,7 @@
 <h2>Berry Candy<h2>
   
 ![Screenshot 2024-03-22 030747](https://github.com/xillenburg/PyroV2/assets/92593235/f85e67cd-3d1d-4b08-a9f5-b83af91e0415)
+<h3>CONSUMABLE EVEN WHEN FULL<h3>
 <h4>Effects: Speed [4 secs]<h4>
 <h4>Hunger Points: 0.5, Saturation Points: 0, Eating Time(sec): 0.5<h4>
 <h4>Yield: 4, Max stack: 16<h4>
