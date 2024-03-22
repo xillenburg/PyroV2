@@ -1,4 +1,4 @@
-<h1>This page is dedicated for food and miscs<h1>
+<h1>This page is dedicated for CRAFTABLE FOODS<h1>
 
 <h1>Basic Foods~~~~~~~~~~~~~~~~~~~~~<h1>
 <h2>Boiled Egg<h2>
@@ -69,3 +69,17 @@
 <h4>Effects: Strength [15 secs], Regeneration [5 secs]<h4>
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
 <h4>Yield: 6, Max stack: 64<h4>
+
+<h2>Creamy Rice & Chicken Stew<h2>
+
+![Screenshot 2024-03-22 161551](https://github.com/xillenburg/PyroV2/assets/92593235/7b8c4474-dbc4-415b-b67a-fa0d54be2567)
+<h4>Effects: Health Boost [60 secs], Regeneration II [30 secs]<h4>
+<h4>Hunger Points: 16, Saturation Points: 16, Eating Time(sec): 4<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Pumpkin Chicken Stew<h2>
+
+![Screenshot 2024-03-22 164153](https://github.com/xillenburg/PyroV2/assets/92593235/dc2aacae-9b31-4ad5-af33-3d9a322677d6)
+<h4>Effects: Health Boost [50 secs], Regeneration II [20 secs], Strength [20 secs]<h4>
+<h4>Hunger Points: 14, Saturation Points: 14, Eating Time(sec): 3.5<h4>
+<h4>Yield: 1, Max stack: 16<h4>
