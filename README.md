@@ -109,7 +109,7 @@
 
 ![Screenshot 2024-03-23 103213](https://github.com/xillenburg/PyroV2/assets/92593235/eecaceda-c28b-47fb-98bd-ea0ea3fbbed8)
 <h4>Effects: Health Boost [40 secs], Absorption II [40 secs], Regeneration II [20 secs]<h4>
-<h4>Hunger Points: 14, Saturation Points: 14, Eating Time(sec): 3.5<h4>
+<h4>Hunger Points: 12, Saturation Points: 12, Eating Time(sec): 3.5<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
 <h2>Pumpkin Chicken Stew<h2>
