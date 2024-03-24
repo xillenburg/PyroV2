@@ -74,13 +74,34 @@
 <h4>Yield: 1, Max stack: 16<h4>
   
 <h1>Status Effect Foods~~~~~~~~~~~~~~~~~~~~~<h1>
+
+<h2>Barbeque<h2>
+
+![Screenshot 2024-03-24 114902](https://github.com/xillenburg/PyroV2/assets/92593235/0b820a4c-202d-49e2-aaba-994a73e02506)
+<h4>Effects: Strength [20 secs], Regeneration [20 secs]<h4>
+<h4>Hunger Points: 5, Saturation Points: 5, Eating Time(sec): 1<h4>
+<h4>Yield: 4, Max stack: 64<h4>
+
+<h2>Hashbrown<h2>
+
+![Screenshot 2024-03-24 120050](https://github.com/xillenburg/PyroV2/assets/92593235/ec75ba5f-f68c-476c-9972-7cb493fcf0fc)
+<h4>Effects: Resistance [20 secs], Regeneration [20 secs]<h4>
+<h4>Hunger Points: 6, Saturation Points: 6, Eating Time(sec): 1<h4>
+<h4>Yield: 6, Max stack: 64<h4>
+
+<h2>Herb Sausage<h2>
+
+![Screenshot 2024-03-24 120050](https://github.com/xillenburg/PyroV2/assets/92593235/ec75ba5f-f68c-476c-9972-7cb493fcf0fc)
+<h4>Effects: Strength [20 secs], Resistance [20 secs]<h4>
+<h4>Hunger Points: 6, Saturation Points: 6, Eating Time(sec): 1<h4>
+<h4>Yield: 4, Max stack: 64<h4>
   
-<h2>Carrot Pie<h2>
-  
-![Screenshot 2024-03-22 031433](https://github.com/xillenburg/PyroV2/assets/92593235/1cd544e4-7907-4c01-9817-68a83fa1973b)
-<h4>Effects: Night Vision [60 secs], Regeneration [5 secs]<h4>
-<h4>Hunger Points: 14, Saturation Points: 6, Eating Time(sec): 3<h4>
-<h4>Yield: 1, Max stack: 16<h4>
+<h2>Glazed Chicken<h2>
+
+![Screenshot 2024-03-22 134314](https://github.com/xillenburg/PyroV2/assets/92593235/f7b1d41b-294a-4346-b3c7-3e82bb5cc237)
+<h4>Effects: Strength [20 secs], Speed [20 secs]<h4>
+<h4>Hunger Points: 6, Saturation Points: 6, Eating Time(sec): 1<h4>
+<h4>Yield: 8, Max stack: 64<h4>
 
 <h2>Fruit Salad<h2>
   
@@ -89,12 +110,12 @@
 <h4>Hunger Points: 7, Saturation Points: 7, Eating Time(sec): 2<h4>
 <h4>Yield: 2, Max stack: 16<h4>
 
-<h2>Glazed Chicken<h2>
+<h2>Vegan Sandwich<h2>
 
-![Screenshot 2024-03-22 134314](https://github.com/xillenburg/PyroV2/assets/92593235/f7b1d41b-294a-4346-b3c7-3e82bb5cc237)
-<h4>Effects: Strength [20 secs], Speed [20 secs]<h4>
-<h4>Hunger Points: 6, Saturation Points: 6, Eating Time(sec): 1<h4>
-<h4>Yield: 8, Max stack: 64<h4>
+![Screenshot 2024-03-24 114827](https://github.com/xillenburg/PyroV2/assets/92593235/d3616723-471b-4278-837a-677ee286e24c)
+<h4>Effects: Resistance [15 secs], Regeneration [10 secs]<h4>
+<h4>Hunger Points: 7, Saturation Points: 7, Eating Time(sec): 2<h4>
+<h4>Yield: 6, Max stack: 64<h4>
 
 <h2>Chicken Egg Sandwich<h2>
 
@@ -103,7 +124,21 @@
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
 <h4>Yield: 6, Max stack: 64<h4>
 
+<h2>Carrot Pie<h2>
+  
+![Screenshot 2024-03-22 031433](https://github.com/xillenburg/PyroV2/assets/92593235/1cd544e4-7907-4c01-9817-68a83fa1973b)
+<h4>Effects: Night Vision [60 secs], Regeneration [5 secs]<h4>
+<h4>Hunger Points: 14, Saturation Points: 6, Eating Time(sec): 3<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
 <h1>Hearty Heavy Foods~~~~~~~~~~~~~~~~~~~~~<h1>
+
+<h2>Leche Flan<h2>
+
+![Screenshot 2024-03-24 104239](https://github.com/xillenburg/PyroV2/assets/92593235/8dd2bef0-6b37-43c6-ae74-e18a8df72553)
+<h4>Effects: Health Boost [30 secs], Speed II [30 secs], Regeneration II [30 secs]<h4>
+<h4>Hunger Points: 7, Saturation Points: 7, Eating Time(sec): 1.5<h4>
+<h4>Yield: 1, Max stack: 16<h4>
 
 <h2>Lush Glowing Salad<h2>
 
