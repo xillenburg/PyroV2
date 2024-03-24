@@ -95,7 +95,7 @@
 ![Screenshot 2024-03-24 130345](https://github.com/xillenburg/PyroV2/assets/92593235/03d97929-ccd8-4440-941d-656a67042926)
 <h4>Effects: Speed [20 secs], Regeneration [5 secs]<h4>
 <h4>Hunger Points: 5, Saturation Points: 0, Eating Time(sec): 2.5<h4>
-<h4>Yield: 1, Max stack: 64<h4>
+<h4>Yield: 8, Max stack: 64<h4>
 
 <h2>Triple Scoop Ice Cream<h2>
   
