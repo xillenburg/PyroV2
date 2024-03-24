@@ -105,6 +105,42 @@
 
 <h1>Hearty Heavy Foods~~~~~~~~~~~~~~~~~~~~~<h1>
 
+<h2>Lush Glowing Salad<h2>
+
+![Screenshot 2024-03-24 104225](https://github.com/xillenburg/PyroV2/assets/92593235/7b521815-0e55-466e-ae76-960f5691ff44)
+<h4>Effects: Health Boost [30 secs], Glowing [30 secs], Regeneration [30 secs]<h4>
+<h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Lush Beetroot Salad<h2>
+
+![Screenshot 2024-03-24 104211](https://github.com/xillenburg/PyroV2/assets/92593235/e12bbf40-aa13-4880-acad-94a3495e8a9b)
+<h4>Effects: Health Boost [30 secs], Resistance [30 secs], Regeneration [30 secs]<h4>
+<h4>Hunger Points: 8, Saturation Points: 8, Eating Time(sec): 2<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+
+<h2>Scrambled Eggs<h2>
+
+![Screenshot 2024-03-24 104031](https://github.com/xillenburg/PyroV2/assets/92593235/be8e63de-7c57-4f2f-aa0e-a5ec35c3b0e5)
+<h4>Effects: Health Boost [30 secs], Absorption II [30 secs], Regeneration II [15 secs]<h4>
+<h4>Hunger Points: 9, Saturation Points: 9, Eating Time(sec): 2<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Ramen<h2>
+
+![Screenshot 2024-03-24 103914](https://github.com/xillenburg/PyroV2/assets/92593235/c2f40f83-fb89-4861-8efc-eea2bf1b42e3)
+<h4>Effects: Health Boost [30 secs], Resistance II [30 secs], Regeneration II [5 secs]<h4>
+<h4>Hunger Points: 10, Saturation Points: 10, Eating Time(sec): 3<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Beef Mushroom Carbonara<h2>
+
+![Screenshot 2024-03-24 103940](https://github.com/xillenburg/PyroV2/assets/92593235/fa9f6ad9-5fbc-4a83-8023-d4672c54cf7e)
+<h4>Effects: Health Boost [50 secs], Strength II [50 secs], Regeneration II [10 secs]<h4>
+<h4>Hunger Points: 11, Saturation Points: 11, Eating Time(sec): 3<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
 <h2>Fish & Chips<h2>
 
 ![Screenshot 2024-03-23 103213](https://github.com/xillenburg/PyroV2/assets/92593235/eecaceda-c28b-47fb-98bd-ea0ea3fbbed8)
@@ -123,6 +159,13 @@
 
 ![Screenshot 2024-03-22 161551](https://github.com/xillenburg/PyroV2/assets/92593235/7b8c4474-dbc4-415b-b67a-fa0d54be2567)
 <h4>Effects: Health Boost [60 secs], Strength II [60 secs], Regeneration II [30 secs]<h4>
+<h4>Hunger Points: 16, Saturation Points: 16, Eating Time(sec): 4<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Pork Cutlet & Veggies<h2>
+
+![Screenshot 2024-03-24 104057](https://github.com/xillenburg/PyroV2/assets/92593235/80caf6e5-981b-407b-9d14-3e113b89ca0f)
+<h4>Effects: Health Boost [60 secs], Resistance II [60 secs], Regeneration II [30 secs]<h4>
 <h4>Hunger Points: 16, Saturation Points: 16, Eating Time(sec): 4<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
