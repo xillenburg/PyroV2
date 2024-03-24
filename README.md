@@ -84,7 +84,7 @@
 
 <h2>Hashbrown<h2>
 
-![Screenshot 2024-03-24 120050](https://github.com/xillenburg/PyroV2/assets/92593235/ec75ba5f-f68c-476c-9972-7cb493fcf0fc)
+![Screenshot 2024-03-24 120315](https://github.com/xillenburg/PyroV2/assets/92593235/95ce530c-de58-4496-99d6-7e2546705771)
 <h4>Effects: Resistance [20 secs], Regeneration [20 secs]<h4>
 <h4>Hunger Points: 6, Saturation Points: 6, Eating Time(sec): 1<h4>
 <h4>Yield: 6, Max stack: 64<h4>
