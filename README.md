@@ -202,7 +202,7 @@
 <h2>Ramen<h2>
 
 ![Screenshot 2024-03-24 103914](https://github.com/xillenburg/PyroV2/assets/92593235/c2f40f83-fb89-4861-8efc-eea2bf1b42e3)
-<h4>Effects: Health Boost [30 secs], Resistance II [30 secs], Regeneration II [5 secs]<h4>
+<h4>Effects: Health Boost [30 secs], Resistance II [30 secs], Regeneration II [10 secs]<h4>
 <h4>Hunger Points: 13, Saturation Points: 13, Eating Time(sec): 3<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
