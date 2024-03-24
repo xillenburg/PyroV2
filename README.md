@@ -164,7 +164,7 @@
 
 <h2>Pork Cutlet & Veggies<h2>
 
-![Screenshot 2024-03-24 104057](https://github.com/xillenburg/PyroV2/assets/92593235/80caf6e5-981b-407b-9d14-3e113b89ca0f)
+![Screenshot 2024-03-24 110750](https://github.com/xillenburg/PyroV2/assets/92593235/d5a6b70a-3630-4f87-b408-65758a6ce87f)
 <h4>Effects: Health Boost [60 secs], Resistance II [60 secs], Regeneration II [30 secs]<h4>
 <h4>Hunger Points: 16, Saturation Points: 16, Eating Time(sec): 4<h4>
 <h4>Yield: 1, Max stack: 16<h4>
