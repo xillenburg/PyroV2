@@ -166,7 +166,7 @@
 
 <h2>Leche Flan<h2>
 
-![Screenshot 2024-03-24 104239](https://github.com/xillenburg/PyroV2/assets/92593235/8dd2bef0-6b37-43c6-ae74-e18a8df72553)
+![Screenshot 2024-06-16 002311](https://github.com/xillenburg/PyroV2/assets/92593235/72d96646-b247-4355-9d4f-d0c199f1de05)
 <h4>Effects: Health Boost [30 secs], Speed II [30 secs], Regeneration II [30 secs]<h4>
 <h4>Hunger Points: 7, Saturation Points: 7, Eating Time(sec): 1.5<h4>
 <h4>Yield: 1, Max stack: 16<h4>
