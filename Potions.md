@@ -9,3 +9,15 @@
 <h4>Haste V: 1h 30m<h4>
 <h4>Speed II: 1h 30m<h4>
 <h4>Night Vision: 1h 30m<h4>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<h3>Exotic Tonics - Viking's Berserk Fury<h3>
+
+![Screenshot 2024-03-28 214329](https://github.com/xillenburg/PyroV2/assets/92593235/71123ade-cdad-4d6e-bb90-b721336d6e3a)
+
+
+<h4>Effects:<h4>
+<h4>Strength V: 1h 30m<h4>
+<h4>Resistance II: 1h 30m<h4>
+<h4>Regeneration: 1h 30m<h4>
