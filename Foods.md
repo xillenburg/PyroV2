@@ -38,7 +38,7 @@
   
 ![Screenshot 2024-07-17 124639](https://github.com/user-attachments/assets/e2be7874-2d0f-4170-b8c9-c4376317eafe)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Chance to gain Speed [4 secs], Probability: 50%<h4>
+<h4>Effects: Speed [4 secs], Probability: 50%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
@@ -46,7 +46,7 @@
   
 ![Screenshot 2024-07-17 124743](https://github.com/user-attachments/assets/af350e85-2194-47a1-9769-627a3f4ec282)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Chance to gain Speed [4 secs], Probability: 50%<h4>
+<h4>Effects: Speed [4 secs], Probability: 50%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
@@ -54,7 +54,7 @@
   
 ![Screenshot 2024-07-17 130136](https://github.com/user-attachments/assets/4555e612-6d91-44b2-bcf8-0468a707123e)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Chance to gain Speed [4 secs], Probability: 30%<h4>
+<h4>Effects: Speed [4 secs], Probability: 30%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 8, Max stack: 64<h4>
 
@@ -62,7 +62,7 @@
   
 ![Screenshot 2024-07-17 130432](https://github.com/user-attachments/assets/4089ee5d-58a1-4db6-a41f-425753187ff4)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Chance to gain Speed [4 secs], Probability: 30%, Jump Boost [4 secs], Probability: 30%<h4>
+<h4>Effects: Speed [4 secs], Probability: 30%, Jump Boost [4 secs], Probability: 30%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
