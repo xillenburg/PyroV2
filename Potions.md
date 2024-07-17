@@ -39,7 +39,7 @@
 
 <h3>Exotic Tonics - Quarrymaster's Brew<h3>
 
-![Screenshot 2024-03-28 212621](https://github.com/xillenburg/PyroV2/assets/92593235/ffd1e20c-f373-4bf7-9da7-94f93a4f2084)
+![Screenshot 2024-07-17 220931](https://github.com/user-attachments/assets/bac6640e-f657-4549-805c-c3e7e4b9cda7)
 
 <h4>Effects:<h4>
 <h4>Haste V: 1h 30m<h4>
@@ -48,7 +48,7 @@
 ------------------------------------------------
 <h3>Exotic Tonics - Viking's Berserk Fury<h3>
 
-![Screenshot 2024-03-28 214329](https://github.com/xillenburg/PyroV2/assets/92593235/71123ade-cdad-4d6e-bb90-b721336d6e3a)
+![Screenshot 2024-07-17 221030](https://github.com/user-attachments/assets/d4076a34-0d4c-48dc-98fc-1fcb868a78d3)
 
 <h4>Effects:<h4>
 <h4>Strength V: 1h 30m<h4>
@@ -57,7 +57,7 @@
 ------------------------------------------------
 <h3>Exotic Tonics - Mead of the Sea<h3>
 
-![Screenshot 2024-03-29 013546](https://github.com/xillenburg/PyroV2/assets/92593235/cd801742-e45b-4189-8410-1ba5b5b7bf31)
+![Screenshot 2024-07-17 220955](https://github.com/user-attachments/assets/aa7c8788-cecd-4a5b-af67-2f0807a54c14)
 
 <h4>Effects:<h4>
 <h4>Dolphin's Grace V: 1h 30m<h4>
@@ -68,9 +68,10 @@
 
 <h3>Spelunker Tonic - Netherlight Lifedrop<h3>
 
-![Screenshot 2024-03-29 100054](https://github.com/xillenburg/PyroV2/assets/92593235/a4b1dc61-1fe0-4bdf-896a-9f818341579a)
+![Screenshot 2024-07-17 221236](https://github.com/user-attachments/assets/7f3e1d21-391e-41b4-bc6a-9bca4802cf3e)
 
 <h4>Effects:<h4>
 <h4>Health Boost V: 2h<h4>
 <h4>Regeneration V: 10s<h4>
+<h4>Resistance V: 10s<h4>
 ------------------------------------------------
