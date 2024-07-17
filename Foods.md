@@ -52,19 +52,19 @@
 
 <h2>Choco Candies<h2>
   
-![Screenshot 2024-03-24 130125](https://github.com/xillenburg/PyroV2/assets/92593235/dda04549-b619-469f-bb28-b3250505a332)
+![Screenshot 2024-07-17 130136](https://github.com/user-attachments/assets/4555e612-6d91-44b2-bcf8-0468a707123e)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [4 secs]<h4>
-<h4>Hunger Points: 1, Saturation Points: 0, Eating Time(sec): 0.5<h4>
+<h4>Effects: Chance to gain Speed [4 secs], Probability: 30%<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 8, Max stack: 64<h4>
 
 <h2>Brownies<h2>
   
-![Screenshot 2024-03-24 130320](https://github.com/xillenburg/PyroV2/assets/92593235/95de5515-b1a4-4452-a6ef-2899827f89aa)
+![Screenshot 2024-07-17 130432](https://github.com/user-attachments/assets/4089ee5d-58a1-4db6-a41f-425753187ff4)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [15 secs], Regeneration [5]<h4>
-<h4>Hunger Points: 2, Saturation Points: 0, Eating Time(sec): 0.7<h4>
-<h4>Yield: 8, Max stack: 64<h4>
+<h4>Effects: Chance to gain Speed [4 secs], Probability: 30%, Jump Boost [4 secs], Probability: 30%<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
+<h4>Yield: 4, Max stack: 64<h4>
 
 <h2>Candy Comb<h2>
   
