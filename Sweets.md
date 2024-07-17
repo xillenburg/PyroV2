@@ -111,7 +111,7 @@
 
 ![Screenshot 2024-07-17 143215](https://github.com/user-attachments/assets/32122d05-4b8d-4743-91dd-88e58ad3cfc3)
 <h4>Effects:<h4>
-<h4>Regeneration [20 secs] || Fire Resistance [60 secs] || Absorption II [120 secs]<h4>
+<h4>Regeneration [20 secs] || Night Vision [60 secs] || Absorption II [120 secs]<h4>
 <h4>Hunger Points: 8, Saturation Points: 8, Eating Time: Slow<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
