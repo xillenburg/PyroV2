@@ -1,3 +1,5 @@
+<h1>Mid Tier Meals ~~~~~~~~~~~~~~~~~~~~~<h1>
+
 <h2>Lush Glow Salad<h2>
   
 ![Screenshot 2024-07-17 205830](https://github.com/user-attachments/assets/5096fd07-1530-4cc3-af9c-0fedb8260d27)
@@ -36,4 +38,28 @@
 <h4>Health Boost [240 secs]<h4>
 
 <h4>Hunger Points: 14, Saturation Points: 14, Eating Time: Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h1>High Tier Meals ~~~~~~~~~~~~~~~~~~~~~<h1>
+
+<h2>Tropical Deluxe Ramen<h2>
+  
+![Screenshot 2024-07-17 213441](https://github.com/user-attachments/assets/60322ff2-5119-48c4-b7fa-bb7ee4b3473c)
+<h4>Effects:<h4>
+<h4>Regeneration III [20 secs] || Dolphin's Grace II [240 secs]<h4>
+<h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
+<h4>Health Boost II [480 secs]<h4>
+
+<h4>Hunger Points: 16, Saturation Points: 16, Eating Time: Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Creamy Rice & Chicken Stew<h2>
+  
+![Screenshot 2024-07-17 213930](https://github.com/user-attachments/assets/fff00a08-cc90-434c-876d-9b1d5f901748)
+<h4>Effects:<h4>
+<h4>Regeneration III [20 secs] || Haste II [240 secs]<h4>
+<h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
+<h4>Health Boost II [480 secs]<h4>
+
+<h4>Hunger Points: 16, Saturation Points: 16, Eating Time: Slow<h4>
 <h4>Yield: 1, Max stack: 16<h4>
