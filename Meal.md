@@ -1,4 +1,4 @@
-![Screenshot 2024-07-17 172331](https://github.com/user-attachments/assets/f0f0de69-0ef7-4b2a-868f-e5d6781445c9)<h1>Meals ~~~~~~~~~~~~~~~~~~~~~<h1>
+<h1>Meals ~~~~~~~~~~~~~~~~~~~~~<h1>
 
 <h2>Hashbrown<h2>
   
