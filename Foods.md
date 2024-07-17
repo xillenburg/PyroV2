@@ -99,7 +99,7 @@
 
 <h2>Donut<h2>
   
-![Screenshot 2024-03-24 130345](https://github.com/xillenburg/PyroV2/assets/92593235/03d97929-ccd8-4440-941d-656a67042926)
+![Screenshot 2024-07-17 133410](https://github.com/user-attachments/assets/7286909e-f4b0-4002-9be3-749cd5faac7d)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects:<h4>
 <h4>Speed [10 secs], Probability: 30% || Jump Boost [10 secs], Probability: 30%<h4>
