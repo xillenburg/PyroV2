@@ -47,3 +47,32 @@
 <h4>Effects:<h4>
 <h4>Hunger Points: 2, Saturation Points: 4, Eating Time: Very Fast<h4>
 <h4>Yield: 1, Max stack: 64<h4>
+
+<h2>Wheat Sushi<h2>
+  
+![Screenshot 2024-07-17 164653](https://github.com/user-attachments/assets/81e1de0b-55e4-41e0-8973-ace530d18674)
+<h4>Effects:<h4>
+<h4>Hunger Points: 3, Saturation Points: 2, Eating Time: Very Fast<h4>
+<h4>Yield: 3, Max stack: 64<h4>
+
+<h2>Dried Red Mushroom<h2>
+  
+![Screenshot 2024-07-17 164857](https://github.com/user-attachments/assets/e666c788-ce5b-4000-99fc-22278c43870a)
+<h4>Effects:<h4>
+<h4>Nausea [5 secs], Probability: 5% || Poison [5 secs], Probability: 5%<h4>
+<h4>Hunger Points: 3, Saturation Points: 2, Eating Time: Very Fast<h4>
+<h4>Yield: 1, Max stack: 64<h4>
+
+<h2>Fried Egg<h2>
+  
+![Screenshot 2024-07-17 165137](https://github.com/user-attachments/assets/76ea7e67-a4ab-4e18-9b37-71daf3ee4b9d)
+<h4>Effects:<h4>
+<h4>Hunger Points: 3, Saturation Points: 4, Eating Time: Very Fast<h4>
+<h4>Yield: 1, Max stack: 64<h4>
+
+<h2>Salmon Sushi<h2>
+
+![Screenshot 2024-07-17 165315](https://github.com/user-attachments/assets/46d69091-adb2-4162-9a8a-0c8429520418)
+<h4>Effects:<h4>
+<h4>Hunger Points: 4, Saturation Points: 3, Eating Time: Very Fast<h4>
+<h4>Yield: 3, Max stack: 64<h4>
