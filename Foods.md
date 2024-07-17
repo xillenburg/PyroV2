@@ -62,7 +62,7 @@
   
 ![Screenshot 2024-07-17 130432](https://github.com/user-attachments/assets/4089ee5d-58a1-4db6-a41f-425753187ff4)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [4 secs], Probability: 30%, Jump Boost [4 secs], Probability: 30%<h4>
+<h4>Effects: Speed [4 secs], Probability: 30% | Jump Boost [4 secs], Probability: 30%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
