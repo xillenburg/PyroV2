@@ -76,3 +76,33 @@
 <h4>Effects:<h4>
 <h4>Hunger Points: 4, Saturation Points: 3, Eating Time: Very Fast<h4>
 <h4>Yield: 3, Max stack: 64<h4>
+
+<h2>Boiled Egg<h2>
+  
+![Screenshot 2024-07-17 170057](https://github.com/user-attachments/assets/7d7bb718-f8c2-4678-a250-e72283d45383)
+<h4>Effects:<h4>
+<h4>Hunger Points: 4, Saturation Points: 3, Eating Time: Fast<h4>
+<h4>Yield: 1, Max stack: 64<h4>
+
+<h2>Tropical Sashimi<h2>
+  
+![Screenshot 2024-07-17 170251](https://github.com/user-attachments/assets/bc1e4bd7-51aa-402b-9bb6-d9dbb51b27d5)
+<h4>Effects:<h4>
+<h4>Hunger Points: 4, Saturation Points: 4, Eating Time: Very Fast<h4>
+<h4>Yield: 3, Max stack: 64<h4>
+
+<h2>Picled Cactus<h2>
+  
+![Screenshot 2024-07-17 170444](https://github.com/user-attachments/assets/a3add715-622b-40f7-9a92-8b368028a35c)
+<h4>Effects:<h4>
+<h4>Instant Damage [1 sec], Probability: 30%<h4>
+<h4>Hunger Points: 4, Saturation Points: 6, Eating Time: Fast<h4>
+<h4>Yield: 1, Max stack: 64<h4>
+
+<h2>Scrambled Cactus<h2>
+  
+![Screenshot 2024-07-17 170512](https://github.com/user-attachments/assets/e36217b8-dbce-4661-bba7-3924102ec247)
+<h4>Effects:<h4>
+<h4>Instant Damage [1 sec], Probability: 30%<h4>
+<h4>Hunger Points: 8, Saturation Points: 10, Eating Time: Fast<h4>
+<h4>Yield: 1, Max stack: 64<h4>
