@@ -2,7 +2,7 @@
 
 <h3>Rottbitter Brew of Brute Strength<h3>
 
-![Screenshot 2024-03-28 235728](https://github.com/xillenburg/PyroV2/assets/92593235/1e9943f9-43e7-40b1-83df-41396c6a1e87)
+![Screenshot 2024-07-17 220320](https://github.com/user-attachments/assets/f6674de8-bd13-47c6-9415-e0e5b9d5b754)
 
 <h4>Effects:<h4>
 <h4>Poison II: 10s<h4>
@@ -13,7 +13,7 @@
 ------------------------------------------------
 <h3>Rottbitter Brew of Impenetrable Resistance<h3>
 
-![Screenshot 2024-03-28 235743](https://github.com/xillenburg/PyroV2/assets/92593235/3dfbae31-8b9f-4f57-a4a2-c74bbf68fbb4)
+![Screenshot 2024-07-17 220720](https://github.com/user-attachments/assets/0dc2f367-bfbc-4f93-add8-e3ec75dad159)
 
 <h4>Effects:<h4>
 <h4>Poison II: 10s<h4>
@@ -24,7 +24,7 @@
 ------------------------------------------------
 <h3>Rottbitter Brew of Brisk Mobility<h3>
 
-![Screenshot 2024-03-28 235844](https://github.com/xillenburg/PyroV2/assets/92593235/1ced5fb1-9200-4223-be85-5b14208f5040)
+![Screenshot 2024-07-17 220527](https://github.com/user-attachments/assets/68c992e5-db9b-45de-a60f-59875f5fd8f4)
 
 <h4>Effects:<h4>
 <h4>Poison II: 10s<h4>
