@@ -6,8 +6,6 @@
 ![Screenshot 2024-03-22 014823](https://github.com/xillenburg/PyroV2/assets/92593235/a4886d46-52e7-475a-9525-c6d38679787a)
 <h4>Hunger Points: 3, Saturation Points: 2, Eating Time(sec): 1<h4>
 <h4>Yield: 1, Max stack: 64<h4>
-  
-<span style="color: red;">gummy bear</span>
 
 <h2>Fried Egg<h2>
   
