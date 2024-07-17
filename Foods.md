@@ -36,18 +36,18 @@
 
 <h2>Gummy Bear<h2>
   
-![Screenshot 2024-03-24 130102](https://github.com/xillenburg/PyroV2/assets/92593235/9e14c241-99cf-492a-9656-fb94029c4c0e)
+![Screenshot 2024-07-17 124639](https://github.com/user-attachments/assets/e2be7874-2d0f-4170-b8c9-c4376317eafe)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [4 secs]<h4>
-<h4>Hunger Points: 1, Saturation Points: 0, Eating Time(sec): 0.5<h4>
+<h4>Effects: Chance to gain Speed [4 secs]<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
 <h2>Berry Candy<h2>
   
-![Screenshot 2024-03-22 030747](https://github.com/xillenburg/PyroV2/assets/92593235/f85e67cd-3d1d-4b08-a9f5-b83af91e0415)
+![Screenshot 2024-07-17 124743](https://github.com/user-attachments/assets/af350e85-2194-47a1-9769-627a3f4ec282)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [4 secs]<h4>
-<h4>Hunger Points: 1, Saturation Points: 0, Eating Time(sec): 0.5<h4>
+<h4>Effects: Chance to gain Speed [4 secs]<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
 <h2>Choco Candies<h2>
