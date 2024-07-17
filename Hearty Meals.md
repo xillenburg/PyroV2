@@ -7,3 +7,33 @@
 
 <h4>Hunger Points: 10, Saturation Points: 10, Eating Time: Slow<h4>
 <h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Lush Beet Salad<h2>
+  
+![Screenshot 2024-07-17 210547](https://github.com/user-attachments/assets/114d6940-9bae-4655-b6c0-32f7343c0bc1)
+<h4>Effects:<h4>
+<h4>Regeneration II [20 secs] || Resistance [120 secs]<h4>
+<h4>Health Boost [240 secs]<h4>
+
+<h4>Hunger Points: 12, Saturation Points: 12, Eating Time: Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Fish & Chips<h2>
+  
+![Screenshot 2024-07-17 210825](https://github.com/user-attachments/assets/c8862847-2cab-4c0c-8ef1-d58ce4c24f00)
+<h4>Effects:<h4>
+<h4>Regeneration II [20 secs] || Absorption [120 secs]<h4>
+<h4>Health Boost [240 secs]<h4>
+
+<h4>Hunger Points: 13, Saturation Points: 13, Eating Time: Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Scrambled Eggs<h2>
+  
+![Screenshot 2024-07-17 211245](https://github.com/user-attachments/assets/66b1506c-6249-4391-a5b6-3212172c330d)
+<h4>Effects:<h4>
+<h4>Regeneration II [20 secs] || Strength [120 secs]<h4>
+<h4>Health Boost [240 secs]<h4>
+
+<h4>Hunger Points: 14, Saturation Points: 14, Eating Time: Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
