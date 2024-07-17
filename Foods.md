@@ -39,7 +39,7 @@
 ![Screenshot 2024-07-17 124639](https://github.com/user-attachments/assets/e2be7874-2d0f-4170-b8c9-c4376317eafe)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects:<h4>
-<h4>Speed [4 secs], Probability: 50%<h4>
+<h4>Speed [10 secs], Probability: 50%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
@@ -48,7 +48,7 @@
 ![Screenshot 2024-07-17 124743](https://github.com/user-attachments/assets/af350e85-2194-47a1-9769-627a3f4ec282)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects:<h4>
-<h4>Speed [4 secs], Probability: 50%<h4>
+<h4>Speed [10 secs], Probability: 50%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
@@ -57,7 +57,7 @@
 ![Screenshot 2024-07-17 130136](https://github.com/user-attachments/assets/4555e612-6d91-44b2-bcf8-0468a707123e)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects:<h4>
-<h4>Speed [4 secs], Probability: 30%<h4>
+<h4>Speed [10 secs], Probability: 30%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 8, Max stack: 64<h4>
 
@@ -66,25 +66,27 @@
 ![Screenshot 2024-07-17 130432](https://github.com/user-attachments/assets/4089ee5d-58a1-4db6-a41f-425753187ff4)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects:<h4>
-<h4>Speed [4 secs], Probability: 30% || Jump Boost [4 secs], Probability: 30%<h4>
+<h4>Speed [10 secs], Probability: 30% || Jump Boost [10 secs], Probability: 30%<h4>
 <h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 4, Max stack: 64<h4>
 
 <h2>Candy Comb<h2>
   
-![Screenshot 2024-03-23 021356](https://github.com/xillenburg/PyroV2/assets/92593235/89a86182-ad04-4593-ab17-9f6e18898a87)
+![Screenshot 2024-07-17 132639](https://github.com/user-attachments/assets/c3e0f1fa-558f-4008-9e74-0d54845dc99d)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [8 secs]<h4>
-<h4>Hunger Points: 2, Saturation Points: 0, Eating Time(sec): 0.7<h4>
+<h4>Effects:<h4>
+<h4>Speed [10 secs], Probability: 50%<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 2, Max stack: 64<h4>
 
 <h2>Choco Balls<h2>
   
-![Screenshot 2024-03-23 023625](https://github.com/xillenburg/PyroV2/assets/92593235/84a8e430-f3c7-420e-81f8-10cd985951d9)
+![Screenshot 2024-07-17 132658](https://github.com/user-attachments/assets/7c9bbdff-359b-4a8b-abfd-2e99b8c5c1a3)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [10 secs], Regeneration [2 secs]<h4>
-<h4>Hunger Points: 2, Saturation Points: 0, Eating Time(sec): 0.8<h4>
-<h4>Yield: 8, Max stack: 64<h4>
+<h4>Effects:<h4>
+<h4>Speed [10 secs], Probability: 30% || Jump Boost [10 secs], Probability: 30%<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Very Fast<h4>
+<h4>Yield: 4, Max stack: 64<h4>
 
 <h2>Lollipop Berry<h2>
   
