@@ -22,7 +22,7 @@
 <h4>Nausea: 2m<h4>
 <h4>Resistance: 3m<h4>
 ------------------------------------------------
-<h3>Rottbitter Brew of Brisk Mobility<h3>
+<h3>Rottbitter Brew of Mobility<h3>
 
 ![Screenshot 2024-07-17 220527](https://github.com/user-attachments/assets/68c992e5-db9b-45de-a60f-59875f5fd8f4)
 
