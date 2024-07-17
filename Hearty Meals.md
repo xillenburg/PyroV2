@@ -50,7 +50,7 @@
 <h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
 <h4>Health Boost II [480 secs]<h4>
 
-<h4>Hunger Points: 16, Saturation Points: 16, Eating Time: Slow<h4>
+<h4>Hunger Points: 16, Saturation Points: 16, Eating Time: Very Slow<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
 <h2>Creamy Rice & Chicken Stew<h2>
@@ -61,5 +61,38 @@
 <h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
 <h4>Health Boost II [480 secs]<h4>
 
-<h4>Hunger Points: 16, Saturation Points: 16, Eating Time: Slow<h4>
+<h4>Hunger Points: 17, Saturation Points: 17, Eating Time: Very Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Pumpkin Chicken Stew<h2>
+  
+![Screenshot 2024-07-17 214504](https://github.com/user-attachments/assets/2cda2feb-4537-4e39-a0ec-3a6062bb964d)
+<h4>Effects:<h4>
+<h4>Regeneration III [20 secs] || Strength II [240 secs]<h4>
+<h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
+<h4>Health Boost II [480 secs]<h4>
+
+<h4>Hunger Points: 18, Saturation Points: 18, Eating Time: Very Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Pork Cutlet & Veggies<h2>
+  
+![Screenshot 2024-07-17 214656](https://github.com/user-attachments/assets/ab15a17d-a2f9-43f0-af06-d361ad6eabd3)
+<h4>Effects:<h4>
+<h4>Regeneration III [20 secs] || Speed II [240 secs]<h4>
+<h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
+<h4>Health Boost II [480 secs]<h4>
+
+<h4>Hunger Points: 18, Saturation Points: 18, Eating Time: Very Slow<h4>
+<h4>Yield: 1, Max stack: 16<h4>
+
+<h2>Meaty Squid Ink Carbonara<h2>
+  
+![Screenshot 2024-07-17 214752](https://github.com/user-attachments/assets/051e260f-501f-4a1f-a77f-f8f68a931a71)
+<h4>Effects:<h4>
+<h4>Regeneration III [20 secs] || Jump Boost II [240 secs]<h4>
+<h4>Resistance II [240 secs] || Absorption II [240 secs]<h4>
+<h4>Health Boost II [480 secs]<h4>
+
+<h4>Hunger Points: 18, Saturation Points: 18, Eating Time: Very Slow<h4>
 <h4>Yield: 1, Max stack: 16<h4>
