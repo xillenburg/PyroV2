@@ -91,9 +91,9 @@
 <h4>Hunger Points: 7, Saturation Points: 6, Eating Time: Normal<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
-<h2>Jumbo Leche Flan<h2>
+<h2>Leche Flan<h2>
 
-![Screenshot 2024-07-17 133332](https://github.com/user-attachments/assets/d2461d02-c721-4c11-97ae-ae86c398176e)
+![Screenshot 2024-07-17 143923](https://github.com/user-attachments/assets/d7dd340d-ecf9-4bd8-ae5b-7976ee8eb99d)
 <h4>Effects:<h4>
 <h4>Regeneration [20 secs] || Jump Boost [60 secs] || Absorption II [120 secs]<h4>
 <h4>Hunger Points: 7, Saturation Points: 7, Eating Time: Normal<h4>
