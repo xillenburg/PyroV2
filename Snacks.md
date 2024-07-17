@@ -93,7 +93,7 @@
 
 <h2>Picled Cactus<h2>
   
-![Screenshot 2024-07-17 170444](https://github.com/user-attachments/assets/a3add715-622b-40f7-9a92-8b368028a35c)
+![Screenshot 2024-07-17 171041](https://github.com/user-attachments/assets/45bd0efa-3c10-4015-94cf-7f93a485a18f)
 <h4>Effects:<h4>
 <h4>Instant Damage [1 sec], Probability: 30%<h4>
 <h4>Hunger Points: 4, Saturation Points: 6, Eating Time: Fast<h4>
