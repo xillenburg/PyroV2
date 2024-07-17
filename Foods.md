@@ -90,25 +90,30 @@
 
 <h2>Lollipop Berry<h2>
   
-![Screenshot 2024-03-23 021544](https://github.com/xillenburg/PyroV2/assets/92593235/30b522b8-4559-43b2-b56f-7ef8aaffd402)
+![Screenshot 2024-07-17 133249](https://github.com/user-attachments/assets/5ee661b1-1640-4f32-90b5-9168841953fc)
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
-<h4>Effects: Speed [10 secs]<h4>
-<h4>Hunger Points: 3, Saturation Points: 0, Eating Time(sec): 0.8<h4>
+<h4>Effects:<h4>
+<h4>Speed [10 secs], Probability: 30% || Jump Boost [10 secs], Probability: 30%<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Fast<h4>
 <h4>Yield: 3, Max stack: 64<h4>
 
 <h2>Donut<h2>
   
 ![Screenshot 2024-03-24 130345](https://github.com/xillenburg/PyroV2/assets/92593235/03d97929-ccd8-4440-941d-656a67042926)
-<h4>Effects: Speed [20 secs], Regeneration [5 secs]<h4>
-<h4>Hunger Points: 5, Saturation Points: 0, Eating Time(sec): 2.5<h4>
-<h4>Yield: 8, Max stack: 64<h4>
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
+<h4>Effects:<h4>
+<h4>Speed [10 secs], Probability: 30% || Jump Boost [10 secs], Probability: 30%<h4>
+<h4>Hunger Points: 1, Saturation Points: 0, Eating Time: Fast<h4>
+<h4>Yield: 4, Max stack: 64<h4>
 
-<h2>Triple Scoop Ice Cream<h2>
+<h2>Chocolate Cookies<h2>
   
-![Screenshot 2024-03-23 103152](https://github.com/xillenburg/PyroV2/assets/92593235/1532167c-fc40-4d25-8503-3f9b02016cf6)
-<h4>Effects: Speed [60 secs], Regeneration [40 secs]<h4>
-<h4>Hunger Points: 5, Saturation Points: 5, Eating Time(sec): 2.5<h4>
-<h4>Yield: 1, Max stack: 16<h4>
+![Screenshot 2024-07-17 133514](https://github.com/user-attachments/assets/4db39832-f803-48d2-8a75-d79bb0d52eed)
+<h3>//CONSUMABLE EVEN WHEN FULL//<h3>
+<h4>Effects:<h4>
+<h4>Speed [10 secs], Probability: 30% || Jump Boost [10 secs], Probability: 30%<h4>
+<h4>Hunger Points: 2, Saturation Points: 0, Eating Time: Fast<h4>
+<h4>Yield: 4, Max stack: 64<h4>
   
 <h1>Status Effect Foods~~~~~~~~~~~~~~~~~~~~~<h1>
 
