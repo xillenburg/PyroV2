@@ -88,7 +88,7 @@
 ![Screenshot 2024-07-17 133332](https://github.com/user-attachments/assets/d2461d02-c721-4c11-97ae-ae86c398176e)
 <h4>Effects:<h4>
 <h4>Regeneration [20 secs] || Fire Resistance [60 secs] || Absorption II [120 secs]<h4>
-<h4>Hunger Points: 7, Saturation Points: 6, Eating Time: Normal<h4>
+<h4>Hunger Points: 12, Saturation Points: 8, Eating Time: Normal<h4>
 <h4>Yield: 1, Max stack: 16<h4>
 
 <h2>Leche Flan<h2>
