@@ -6,7 +6,7 @@
 <h3>//CONSUMABLE EVEN WHEN FULL//<h3>
 <h4>Effects:<h4>
 <h4>Nausea III [30 secs], Probability: 30% || Slowness [30 secs], Probability: 30%<h4>
-<h4>Regeneration [10 secs], Probability: 8% || Speed [10 secs], Probability: 10%<h4>
+<h4>Regeneration [10 secs], Probability: 20% || Speed [10 secs], Probability: 20%<h4>
 <h4>Hunger Points: 0, Saturation Points: 0, Eating Time: Very Fast<h4>
 <h4>Yield: 1, Max stack: 64<h4>
 
